@@ -4,7 +4,12 @@ This project presents a comprehensive **Road Accidents Analysis Dashboard** buil
 
 ## 📊 Dashboard Highlights
 
-![Road Accident Analysis Screenshot](./Screenshot%202025-06-21%20074216.png)
+![image](https://github.com/user-attachments/assets/5b6aec04-0648-4956-bcb2-d4e62deaec66)
+
+![Background For Power BI Project](https://github.com/user-attachments/assets/8243c0c9-c93b-4238-9cb8-4956d499785b)
+
+![Screenshot 2025-06-21 074216](https://github.com/user-attachments/assets/abb0eb4d-bc6d-4d8b-8732-4c00bd41e19d)
+
 
 ### ✅ Key Insights:
 
@@ -60,5 +65,8 @@ Enable data analysts to explore trends and patterns.
 📜 License
 This project is open-source and free to use for educational and analytical purposes.
 
+
 📌 Connect with me on www.linkedin.com/in/singh-suraj-negi
+
+
 📂 Check out more projects at: https://github.com/SurajSingh-Cse
